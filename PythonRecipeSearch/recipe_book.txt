@@ -1,0 +1,83 @@
+Name: Dinner Tonight: Butter Butter Salad
+Link: http://www.edamam.com/ontologies/edamam.owl#recipe_b20fa9f83bd504ac16b8da46256eb772
+Dish Type: salad
+Ingredients:
+1/4 cup butter
+1 head of butterhead lettuce
+1 tablespoon lemon juice
+Salt and pepper
+Salt and pepper
+Name: Miso Butter
+Link: http://www.edamam.com/ontologies/edamam.owl#recipe_ecac4dc68995a8b5e5c9fbf8e00f05e2
+Dish Type: condiments and sauces
+Ingredients:
+1 stick unsalted butter, room temperature
+2 tablespoons white miso
+Name: Brandy Butter
+Link: http://www.edamam.com/ontologies/edamam.owl#recipe_96ef9ccb925c31ece5f583735e1e4782
+Dish Type: condiments and sauces
+Ingredients:
+12 tbsp. room-temperature unsalted butter
+3/4 cup sugar
+4 tbsp. brandy
+Name: Raspberry Butter
+Link: http://www.edamam.com/ontologies/edamam.owl#recipe_c8bab6ca85024439d394d9b0e97cfdad
+Dish Type: desserts
+Ingredients:
+1/4 pound butter, softened
+2 1/2 tablespoons powdered sugar
+1/2 cup fresh raspberries
+Name: Maple Butter
+Link: http://www.edamam.com/ontologies/edamam.owl#recipe_e56a5c344efd8d62b2eee554a645bbcc
+Dish Type: condiments and sauces
+Ingredients:
+1/2 lb. unsalted butter, cut into chunks and frozen
+1/4 tsp. kosher salt
+1-1/2 cups grade A medium maple syrup
+Name: Brandy butter
+Link: http://www.edamam.com/ontologies/edamam.owl#recipe_63d7c62cbc4e24cede9913f4eb7b305c
+Dish Type: condiments and sauces
+Ingredients:
+125g/4oz unsalted butter, softened
+125g/4oz icing sugar
+2 tbsp boiling water
+3 tbsp brandy
+Name: Shrimp Butter
+Link: http://www.edamam.com/ontologies/edamam.owl#recipe_5a4b121c6f79d0b67830ffab79e7f0f0
+Dish Type: condiments and sauces
+Ingredients:
+1 chopped onion
+2 garlic cloves, minced
+1 sprig fresh thyme
+1 tablespoon unsalted butter
+1 pound shell-on shrimp
+2 sticks butter, softened
+kosher salt and freshly ground black pepper
+kosher salt and freshly ground black pepper
+Name: Honey-Nutmeg Butter
+Link: http://www.edamam.com/ontologies/edamam.owl#recipe_5c9f82c311b3440a6d6aaaeaa0883b36
+Dish Type: condiments and sauces
+Ingredients:
+1 stick butter, softened
+2 tablespoons honey
+1/4 teaspoon nutmeg
+pinch of cinnamon
+pinch of salt (if using unsalted butter)
+Name: Christmas butter
+Link: http://www.edamam.com/ontologies/edamam.owl#recipe_9130b37b1dbebf8fb83ee954b84b5e05
+Dish Type: christmas
+Dish Type: special occasions
+Ingredients:
+1 x 250 g pack of butter
+75 g dried cranberries , really finely chopped
+4 sprigs of fresh rosemary , leaves picked
+freshly ground black pepper
+sea salt
+1 clementine
+Name: Body Butter
+Link: http://www.edamam.com/ontologies/edamam.owl#recipe_e12763a5aed7bcacc117eef422777853
+Dish Type: condiments and sauces
+Ingredients:
+1 cup organic, raw shea butter
+1/2 cup coconut oil
+1/2 cup almond oil
